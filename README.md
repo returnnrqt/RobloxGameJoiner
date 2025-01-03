@@ -33,4 +33,3 @@ This tool allows you to launch Roblox with custom parameters directly from a web
   
 - **Join Roblox Call ID 123**:  
   `https://returnrqt.github.io/RobloxGameJoiner/?callId=123`
-
